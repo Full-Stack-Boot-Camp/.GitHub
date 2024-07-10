@@ -19,4 +19,4 @@ Every repository is labeled with Topics, which I use to further organize the org
 
 * **🌐 Language:** Repositories can contain one or more Language Topics. Each denotes a programming language that is used to within, or referred to by, the codebase.
 
-* **💻 Module:** Repositories that contain a Module Topic indicate notes, code snippets, or other documentation that pertains to a certain week's lesson. An example of a Module Topic would be `Module-11`.
+* **💻 Module:** Repositories that contain a Module Topic indicate notes, code snippets, or other documentation that pertains to a certain week's lesson. An example of a Module Topic is `Module-11`.
